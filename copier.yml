@@ -1,0 +1,3 @@
+lang_name:
+  type: str
+  help: Language name?
