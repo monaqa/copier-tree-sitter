@@ -14,5 +14,5 @@ pipx install copier
 ```
 
 ```sh
-copier copy gh:monaqa/copier-tree-sitter
+copier copy gh:monaqa/copier-tree-sitter tree-sitter-mylanguage
 ```
